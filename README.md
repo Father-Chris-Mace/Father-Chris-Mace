@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Father-Chris-Mace
 - 👀 I’m interested in Solving problems with data and visulising it to help people see the insights
 - 🌱 I’m currently learning dbt, Snowflake, Kestra, Airbyte, Terradata and brushing up my SQL
+- 📜 I already know a lot about Data / databases, Alteryx and Tableau
 - 💞️ I’m looking to collaborate on many things :) 
 - 📫 How to reach me ...
 - 😄 Pronouns: he / him
